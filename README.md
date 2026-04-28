@@ -6,98 +6,57 @@
 
 <div align="center">
 
-  <h1>Leul Neway</h1>
+  <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Leul Neway</h1>
 
-  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android%20Developer-111827?style=for-the-badge" />
+  <p style="font-family: 'Georgia', serif; font-size: 18px; color: #9CA3AF;">
+    Frontend Web Developer&nbsp;&nbsp;•&nbsp;&nbsp;Android App Developer&nbsp;&nbsp;•&nbsp;&nbsp;UI/UX Enthusiast
+  </p>
 
-  <br/><br/>
-
-  <a href="https://leul-neway.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:abateisking@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <p align="center">
+    <a href="https://leul-neway.vercel.app/" target="_blank">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:abateisking@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🚀 What I Do
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Website_Development-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Development-111827?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Chatbots-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/SEO_Optimization-111827?style=for-the-badge&logo=google&logoColor=white" />
-
+<p align="center" style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
+  A passionate developer focused on building responsive websites and Android applications.
+  I enjoy creating clean, user-friendly digital experiences and continuously improving through real-world projects.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-111827?style=for-the-badge&logo=woocommerce&logoColor=white" />
-
-</p>
+<div align="center">
+  <h3 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Connect with Me</h3>
+  <p>
+    <a href="mailto:abateisking@gmail.com" target="_blank">
+      <img alt="Email" width="32px" src="https://cdn.simpleicons.org/gmail/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/YOUR_USERNAME" target="_blank">
+      <img alt="GitHub" width="32px" src="https://cdn.simpleicons.org/github/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://leul-neway.vercel.app/" target="_blank">
+      <img alt="Portfolio" width="32px" src="https://cdn.simpleicons.org/vercel/9CA3AF" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📂 Featured Projects
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Leul's_Shop-eCommerce_Website-111827?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NASA_News_Hub-News_Platform-111827?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CureDictionary-Medical_Web_App-111827?style=for-the-badge" />
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:abateisking@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leul-neway.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
+<div align="center">
+  <h3 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Core Competencies</h3>
+  <p style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
+    Frontend Web Development &nbsp;•&nbsp; Android App Development &nbsp;•&nbsp; Responsive UI Design &nbsp;•&nbsp; API Integration
+  </p>
+</div>
