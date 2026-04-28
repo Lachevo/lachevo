@@ -1,129 +1,74 @@
 <!--
 =====================================================
-Leul Neway | Full-Stack Developer
+💠 Leul Neway | Full-Stack Developer
 =====================================================
 -->
 
 <div align="center">
 
-  <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">
-    Leul Neway
-  </h1>
+  <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Leul Neway</h1>
 
   <p style="font-family: 'Georgia', serif; font-size: 18px; color: #9CA3AF;">
-    Full-Stack Developer • Android Developer • UI/UX Enthusiast
+    Full-Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;Android App Developer&nbsp;&nbsp;•&nbsp;&nbsp;UI/UX Enthusiast
   </p>
 
   <p align="center">
-
     <a href="https://leul-neway.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-
-    <a href="mailto:abateisking@gmail.com">
-      <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://dribbble.com/yohhannees/" target="_blank">
+      <img alt="Design" src="https://img.shields.io/badge/Design-111827?style=for-the-badge&logo=dribbble&logoColor=white" />
     </a>
-
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://www.behance.net/yohannesgetachew" target="_blank">
+      <img alt="Behance" src="https://img.shields.io/badge/Behance-111827?style=for-the-badge&logo=behance&logoColor=white" />
     </a>
-
   </p>
 
 </div>
 
 ---
 
-## About Me
-
 <p align="center" style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
-Full-Stack Developer focused on building responsive web applications and Android applications.
-I develop clean, functional, and user-centered digital products using modern technologies.
+  A Full-Stack Developer focused on building responsive web applications, Android applications, and user-centered digital experiences.
+  Passionate about turning ideas into real-world products using modern development technologies.
 </p>
 
 ---
 
-## What I Do
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web_Development-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend_Development-111827?style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Development-111827?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/UI/UX_Design-111827?style=for-the-badge&logo=figma&logoColor=white" />
-
-</p>
-
----
-
-## Technical Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</p>
+<div align="center">
+  <h3 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Connect with Me</h3>
+  <p>
+    <a href="mailto:yohannesgetachewerieso@gmail.com" target="_blank">
+      <img alt="Email" width="32px" src="https://cdn.simpleicons.org/gmail/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/yohhannees" target="_blank">
+      <img alt="Twitter" width="32px" src="https://cdn.simpleicons.org/x/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/yohhannees/" target="_blank">
+      <img alt="Telegram" width="32px" src="https://cdn.simpleicons.org/telegram/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://wa.me/+251938321124" target="_blank">
+      <img alt="WhatsApp" width="32px" src="https://cdn.simpleicons.org/whatsapp/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/yohhannees/" target="_blank">
+      <img alt="LeetCode" width="30px" src="https://cdn.simpleicons.org/leetcode/9CA3AF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.npmjs.com/~yohhannees" target="_blank">
+      <img alt="NPM" width="32px" src="https://cdn.simpleicons.org/npm/9CA3AF" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Featured Projects
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Inventory_Management_System-C%2B%2B-111827?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Fitness_Tracker-C%23_%2F_SQL_Server-111827?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/E--Commerce_Website-Frontend_Project-111827?style=for-the-badge" />
-
-</p>
-
----
-
-## Contact
-
-<p align="center">
-
-<a href="mailto:abateisking@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leul-neway.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://t.me/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## Current Focus
-
-<p align="center" style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
-Full-Stack Development, Backend Systems, Android Development, and building production-ready applications.
-</p>
+<div align="center">
+  <h3 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Core Competencies</h3>
+  <p style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
+    Full-Stack Web Development&nbsp;&nbsp;•&nbsp;&nbsp;Backend API Development&nbsp;&nbsp;•&nbsp;&nbsp;Android Development&nbsp;&nbsp;•&nbsp;&nbsp;Database Design&nbsp;&nbsp;•&nbsp;&nbsp;UI/UX Design
+  </p>
+</div>
