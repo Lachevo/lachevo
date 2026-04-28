@@ -1,6 +1,6 @@
 <!--
 =====================================================
-💠 Leul Neway | Frontend & Android Developer
+💠 Leul Neway | Full-Stack Developer
 =====================================================
 -->
 
@@ -9,7 +9,7 @@
   <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Leul Neway</h1>
 
   <p style="font-family: 'Georgia', serif; font-size: 18px; color: #9CA3AF;">
-    Frontend Web Developer&nbsp;&nbsp;•&nbsp;&nbsp;Android App Developer&nbsp;&nbsp;•&nbsp;&nbsp;UI/UX Enthusiast
+    Full-Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;Android App Developer&nbsp;&nbsp;•&nbsp;&nbsp;UI/UX Enthusiast
   </p>
 
   <p align="center">
@@ -29,8 +29,8 @@
 ---
 
 <p align="center" style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
-  A passionate developer focused on building responsive websites and Android applications.
-  I enjoy creating clean, user-friendly digital experiences and continuously improving through real-world projects.
+  I am a Full-Stack Developer focused on building responsive web applications and mobile apps.
+  I enjoy turning ideas into real-world digital products using modern frontend and backend technologies.
 </p>
 
 ---
@@ -57,6 +57,6 @@
 <div align="center">
   <h3 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB;">Core Competencies</h3>
   <p style="font-family: 'Georgia', serif; font-size: 16px; color: #9CA3AF;">
-    Frontend Web Development &nbsp;•&nbsp; Android App Development &nbsp;•&nbsp; Responsive UI Design &nbsp;•&nbsp; API Integration
+    Full-Stack Web Development &nbsp;•&nbsp; Backend API Development &nbsp;•&nbsp; Android Development &nbsp;•&nbsp; Database Design
   </p>
 </div>
